@@ -1,0 +1,13 @@
+
+I was reading a post on the myth of the first mover advantage, which intrigued me because I have argued essentially this point in my post, Invention – A Financial Analysis [http://hallingblog.com/2010/08/13/invention-%E2%80%93-a-financial-analysis/](http://hallingblog.com/2010/08/13/invention-%E2%80%93-a-financial-analysis/). One of the responses suggested the book, _Copycats: How Smart Companies Use Imitation to Gain a Strategic Edge_. The description of the book on Amazon states:
+
+In the business world, imitation gets a bad rap. We see imitating firms as me too players, forced to copy because they have nothing original to offer. We pity their fate: a life of picking up crumbs discarded by innovators striding a path paved with fame and profit.   
+  
+In Copycats, Oded Shenkar challenges this viewpoint. He reveals how imitation the exact or broad-brushed copying of an innovation is as critical to prosperity as innovation.  
+  
+Shenkar shows how savvy imitators generate huge profits. **They save not only on R&D costs but also on marketing and advertising investments made by first movers.** And they avoid costly errors by observing and learning from others trials. (Emphasis Added)
+
+  
+  
+
+I show in my post that without intellectual property rights that copycats will “save on R&D costs” and “marketing and advertising costs” compared to inventing firms. This book clearly argues for stealing the inventions and marketing efforts of inventors. There is nothing wrong with being a copycat firm, if you pay the inventor for their intellectual property. However, this is not what the author is suggesting. He is suggesting stealing the inventing and marketing efforts of innovators. According to the description of the book, the author suggests that copying is as critical to prosperity as innovation. Since you cannot copy an invention until it has been created, invention always proceeds copying. It is impossible for the effect, copying, to be as important as the cause, invention. This book may be providing good business advice in the present environment of weak patent rights, but it is dead wrong that imitation is as important invention for the economy. The only way to increase real per capita income is by increases in our level of technology. Only by properly protecting the rights of inventors can we encourage (private) invention and therefore increase our real per capita income. This book is sad statement on the US economy and its willingness to protect property rights.

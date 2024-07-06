@@ -1,0 +1,7 @@
+
+
+In a January 2, 2011 column (Needed: A science stimulus [http://www.washingtonpost.com/wp-dyn/content/article/2010/12/31/AR2010123104129.html](http://www.washingtonpost.com/wp-dyn/content/article/2010/12/31/AR2010123104129.html)) in the Washington Post, George Will points out that the US is suffering from a lack of innovation. He makes a token node to the patent system in the article and then he focuses on government spending on science and engineering and does not mention the patent office is underfunded. George reflects Washingtons and the elitists attitude that government spending is what drives the economy. He just believes government spending should be directed to science. In addition, he repeats the elitist comment that most of the science is done by the elite and us peasants don’t really contribute much.
+
+The late Nobel laureate Julius Axelrod said, "Ninety-nine percent of the discoveries are made by 1 percent of the scientists."
+
+This elitist attitude contradicts all the available evidence. As the book, The Most Powerful Idea in the World, discussed in Georges’ article points out, sustained economic growth does not happen until property rights for ideas (patents) are enacted. This releases a flood of inventions, not by the elite, but by ordinary citizens. It was the democratization of the inventing process that lifted the masses out of the Malthusian Trap.

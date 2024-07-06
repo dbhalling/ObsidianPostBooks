@@ -1,0 +1,106 @@
+
+WHY THERE IS NO GLOBAL WARMING CONSENSUS: Guest Post
+
+The following gives the history of the global warming movement and explains why the scientists overwhelmingly believe that human CO2 does not play a significant role.
+
+History:
+
+In the 1970’s there was a period of global cooling which led the media to a frenzy of reporting a coming ice age. A considerable body of knowledge existed on climate change and the phenomena which have caused it to occur. Examples are such phenomena as changes in the earth’s orbit, the orientation of the earth axis of rotation, variation in cosmic ray flux, and changes in the ocean currents. For decades the Greenhouse Effect on the earth’s temperature had been known. Therefore, during the 1970’s, a Swedish scientist proposed that humans _increase_ their output of CO2 in order to _increase_ the Greenhouse Effect so as to _increase_ the _1970’s global cooling_.
+
+During the 1970’s cooling, Britain suffered because their supply of fuel was disrupted, (a) by the Middle East fuel oil embargo, and (b) by British coal miners’ strikes.
+
+In about 1979 global cooling changed to global warming. Prime Minister Thatcher wanted Britain to shift from coal to nuclear power as France had done. Therefore, she established a committee to report whether an additional _argument_ for a shift to nuclear power was _to reduce_ the output from burning hydrocarbons and thereby _reduce_ the _global warming_ then occurring. The committee didn’t directly address the other various theories of the cause of climate change. It studied the effects of human-related CO2 emissions on the earth’s average surface temperature, and the consequences to humans of the hypothesized continuing warming.
+
+Thatcher’s committee released a report in the mid-1980’s finding that the rising CO2 content of the atmosphere since 1980 did correlate with the increase in global temperature. Without proof it postulated cause-and-effect. It predicted, without proof, a continuing temperature rise that would be disastrous to mankind. The media gave lurid reports of the predicted catastrophes. Environmentalists seized reducing CO2 output as a means to protect the earth. Cold war activist organizations shifted their efforts to anti-global warming. Many saw economic opportunity. Then-Senator Al Gore had learned about global warming in college classes in the 1960’s. As a Senate Committee Chair, he became a staunch supporter of the human-CO2 hypothesis.
+
+The UN then appointed its Intergovernmental Panel on Climate Control (IPCC) with the mission of protecting the earth from climate change. The panel was made up of political appointees (scientists and non-scientists) appointed by UN-member nations. The panel established technical groups with an appointed IPCC member-scientist heading each. The lead politically-appointed scientists recruited volunteer scientists of established reputations to address explicit technical issues. They were to do this by a literature search – not by independent investigations. One small cohort of climatologists evaluated findings on the “IPCC Hypothesis: human CO2 makes a significant contribution to global warming.” This cohort was not concerned with evaluating other potential causes of global warming. The remaining scientists were to address the various _effects_ which would result from the assumed, continuing, long-term increase in future global temperature.
+
+The technical groups, as I understand it, were to submit individual group reports of human-related CO2 emissions, to a separate, elite, editing group composed of IPCC’s political appointees (scientists and non-scientists). That editing group was to prepare a “Summary Report for Decision Makers.” In doing so, these editors were free to change the scientists’ findings without further input from the scientists on the changes the editors made. The Summary Report would be released to “decision-makers” and to the public. Then the groups’ reports would be melded into a single “IPCC Assessment Report,” which also would be available to the public. The Assessment Report…” would conform to the editor’s Summary Report.
+
+The stage was set for a malfunctioning process.
+
+There have been four such pairs of these two kinds of reports (assessment and summary) issued to date.
+
+Genesis:
+
+The fiction of scientists’ consensus on global warming gained began with the publication of the “First IPCC Summary Report for Decision Makers” in about 1992. It matured with the Second Report, issued in 1996 and listing some 2,500 “contributors.” Scientists in the IPCC group expert in the Greenhouse Effect, were a very small fraction of the 2,500 “contributors. They reported in 1996 that, “_No study to date has positively attributed all or part [of the climate change observed to date to anthropogenic_ [i.e., human] _causes_.” It was an unequivocal statement.
+
+The politically-appointed editing group changed that scientists’ finding to say, “_The balance of evidence suggests that there is a discernable human influence on global climate.”_
+
+Thus, the politicians _reversed_ the scientists’ findings. The subsequent full IPCC 1996 Assessment report was prepared throughout to agree with the reversal. There was dismay among many climatologists, worldwide. A number of scientists who had participated asked that their names be removed from the reports’ contributors list. The IPCC denied these requests, saying, “You contributed. You just didn’t agree.” It did comply with an eminent French scientist who sued the IPCC in a French civilian court.
+
+Asked why the change was made, the lead editor said it was due to “pressure” from U.N. member nations. One activity pressing was the U.S. Department of State. It was during Clinton/Gore Administration and V.P. Gore is said to have been involved.
+
+All of the foregoing in this attachment is based mostly on, “A Skeptics Guide to Debunking Global Warming Alarmism…,” U.S. Senate Committee on Environment and Public Works, 12/09/06. See particularly pages 21-22.
+
+Because of the raging controversy following the 1996 report, a social sciences professor at UC, San Diego, read the abstracts of some 900 articles on global warming in the literature and reported that three-fourths of the authors supported the IPCC-Gore human CO2 hypothesis. A European scientist involved in the global warming program reviewed the same 900 articles plus a few more. In contrast, he reported that only 10 papers “fully supported” that hypothesis and only 34% “somewhat supported it.” His report was not published when first submitted for publication in a journal, and the media did not learn of it at the outset.
+
+“Scientific Consensus” and “Settled Science:
+
+Having read the IPCC’s “Second Summary Report for Policymakers” and the paper by the UCSD professor, media personnel believed that it was a broadly accepted scientific conclusion: i.e., “Settled Science.” [“Consensus opinions” is the media’s inaccurate view on how scientific decisions are made.]
+
+Sequentially, the generally used scientific method it is to make an “hypothesis,” validate it to establish a “theory,” have a dialog to establish a generally-accepted theory, and ultimately to establish a “law.” The dialog is among scientific peers who try to replicate the original experimental findings or to refute those findings with replicated experimental findings. That dialogue continues until the significant issues underlying the theory have been settled with unrefuted evidence. After some time span of no significant further dialog and of continuing reinforcement, the theory becomes a “law.” (There are other scientific methods, but none of the other methods were completed on the IPCC Hypothesis, either.)
+
+The IPCC Hypothesis is still an hypothesis. There are no scientific data demonstrating its truth.
+
+In science, correlation does not of itself prove cause-and-effect. I.e., a third variable could be causing the other two variables to change value. Further, as a basic concept, it is not the _opinions_ of a majority of scientists or anyone else who determine the validity of a theory. Validity is determined by the demonstrated _facts_ pertinent to the issue. Up to a century or two before Columbus, everyone “knew” the world was flat and the sun revolved around it.
+
+Believing that the IPCC’s second “Summary Report for Policymaker” established a valid theory, the mainstream media has suppressed news which did not support the IPCC Hypothesis. For example, sixteen months ago I received a response to a draft OpEd submitted for publication. The rejection said in part, words to the effect, “Our editorial board has decided the global warming issue is settled and there’s no point in prolonging the issue. We would welcome papers on what to do about it.” [Recently, that media activity apparently negated that decision.]
+
+Scientific dialogue on the IPCC Hypothesis still continues, but the mainstream media still ignores it. Given the media’s biased reporting, most of the American public and its politicians were taught to believe it’s “settled science,” but the percentages of true believers among our citizens continues to decrease. Of those scientists in the field who initially supported the hypothesis, many or most no longer do. On the other hand, _no publicized “denier” scientists have become supporters_.
+
+Support for the IPCC Hypothesis:
+
+(a) Private Enterprise: Industrial purveyors of “green” power sources stand to make billions on equipment, _all_ of which would furnish power at greater expense than current sources. GE, the corporation which would profit more than any others, reportedly has spent three times as much lobbying Congress as all the oil and coal corporations combined. Ethanol and other biofuel industries have solid federal political support. (For drawbacks of green power sources, see below).
+
+(b) Foreign Nations/United Nations. An obvious solution to the non-problem defined by the hypothesis is to reduce the industrial CO2 output into the atmosphere. Since we, the developed nations, are major emitters of CO2 and allegedly can “afford” the added expense of reducing that output, we are expected to make major reductions. However, the Kyoto Accord exempted all developing nations, including China, India, Brazil, and Indonesia, from the requirement – even though they together place prodigious and rapidly-growing amounts of CO2 effluent. Nations with appreciable nuclear power sources produce appreciably smaller CO2 – but environmentalists and others in America proscribe more American nuclear plants. The effects of drastic CO2 emission curtailment on the USA’s economy and environment would be large, but the USA’s reduction would have only a minor effect on the world’s atmospheric CO2 load. An overwhelming majority of UN nations support its hypothesis and will benefit at the expense of the developed nations grown affluent by the foresight, earnest attention, and hard work of its citizens.
+
+(c) American Government. Many key politicians in our national and state governments vote in conformance with, (1) polls of their generally-misinformed voters, and (2) the vested-interests of their financial contributors. Equally important, the government deficit funding supports industrial, commercial, and agricultural interests, which generates current government tax income.
+
+(d) Environmentalist: There are valid concerns about trace emissions from burned hydrocarbon fuel. For example our cars’ catalytic converters have devices to reduce this pollution and have mostly eliminated smog. Further reduction is desirable: we need to stop polluting the planet. However, the combustion fuel pollutants do NOT include CO2. _Atmospheric CO2 itself is NOT only is NOT a pollutant__; as described below,_ _it is beneficial to both animals and plants_.
+
+Opposition to the IPCC Hypothesis.
+
+(a) In the early 1990s, concerned climatologists (and the organizations they formed) challenged the technical claims being made by the human-CO2-effects proponents. These organizations evolved into the pro bono “Non-governmental International Panel on Climate Control (NIPCC).” Headed by icons in the climatology field, the NIPCC has published two major reports and held two major, widely-attended, three-day, international conferences in New York City. [Please Google, “NIPCC.”] The mainstream media failed to report these NIPCC news items, while publicizing the UN-sponsored global warming meetings – meetings in which, NIPCC-member papers were denied presentation for seemingly political reasons.
+
+(b) The media also failed to report the numerous surveys of professionals in the field who dispute the IPCC Hypothesis – such as the Global Warming Petition Project of 31,500 signees. Active opposition is needed to counter the biased education of the voters, but only the conservative talk radio and the Fox News Network are reporting the countervailing facts.
+
+(c) In addition to the problems with the Second IPCC Assessment Report given above, the Third and Fourth IPCC Assessment Reports have had similar egregious technical faults. For example, the Third Assessment Report emphasized the “hockey stick graph” which wrongly portrays global temperature history and events before 1970 and since 1998. IPCC scientists unsuccessfully opposed its inclusion in the report, and the American Academy of Science later judged to be “of little utility.” Subsequently, the hockey stick graph disappeared from scientific discourse.
+
+(d) All of the IPCC Reports are based on the _assumption_ that human-related CO2 caused the global warming between 1980 and 1996. That assumption is based on the alleged correlation of the increases in atmospheric CO2 and in average annual global temperature during those years. However, Gore and others plotted the two curves going back eons of time with one curve separated on the graph some distance above the other. If the two curves are plotted so that they overlap, it is clear that the temperature changes first and then one or two hundred years later the air’s CO2 content changes. Because of that time relationship, changes in the atmospheric CO2 does not cause the temperature change. It’s vice versa. This time lapse is because the ocean is the earth’s largest storehouse of (dissolved) CO2; and an increasing water temperature decreases the ocean’s solubility constant for dissolved gases. Because water warmed by the sun, ocean currents, etc., is lighter than cold water, it takes many years of roiling the ocean water for the heat to be transferred to the full volume of oceans so as to obtain the full release of dissolved CO2.
+
+(e) Increasing CO2 will benefit plants. Doubling (2X) atmospheric CO2 will increase foodstuff production worldwide about 24%. It will increase all plant growth rates [e.g. pine trees, about 40%]. In the ranges of interest in the IPCC Hypothesis, warming doesn’t hurt plants.
+
+(f) Increased food and renewable resources benefits humans. Historically, the high points of civilization have occurred during periods of global warmth. The threshold at which CO2 becomes physiologically harmful is at atmospheric concentration about 25X that at present. Note that Gore’s agog was concerned about an (improbable) increase to 2X by the next century. Global warming benefits humans
+
+(g) The CBO estimated that passing Cap and Trade will cost the average household an extra $875 in electricity costs in the year 2020, not the $175 estimated by the Administration. Further, this $875 will greatly increase in subsequent years when the additional reductions in carbon emissions are required. In addition to the increased costs of citizens’ home power consumption, Cap and Trade will significantly increase the cost of citizen’s food, clothing, shelter, and services, and any other activities requiring the use of power – like travel and golf course maintenance.
+
+(h) Change of corn harvest from food to ethanol has already decreased the supply of corn as food for the earth’s population; causing starvation in poor countries. Corn for ethanol production requires vast arable land areas.
+
+(I) Wind power substituted for coal will increase power costs _75%._ It will take four hundred (400) square miles of land and thousands of miles of power lines to produce enough energy to power a typical city with wind power. Offshore windmill installations will be an ecological disaster to marine life and migrating birds; and it will be very more expensive than land-based windmills.
+
+(j) Solar (thermal) power will require large land areas and will cost _570%_ more than coal. Solar (photoelectric) will require large land areas and will cost _887%_ more than coal.
+
+(k) In time we will exhaust present supplies of economical fossil fuels. Before that happens we can phase in nuclear power. The waste storage of all the wastes from nuclear power plants of the world to date will take only the volume of one commercial building; and space to take America’s waste exists in prepared underground chambers underneath the Nevada Test Site. The nuclear accidents at Three Mile Island and Chernobyl occurred with unsafe, unstable designs that are no longer used. Our Navy has been nuclear-powered commencing in the 1950’s without human damage, and since perhaps since the 1960’s France has produced most of its power from the atom. It’s the environmentalists’ unreasonable dread of a nuclear power plant explosion or of a vast spill of nuclear wastes that dropped America from world leadership in the nuclear power field – not the ability to construct a safe industry.
+
+(l) Development of nuclear fusion power sources was halted in parallel with that of stopping nuclear fission power plant construction. There is a nearly inexhaustible source of deuterium in the world’s oceans, but the unattained task is to contain the fusion reaction.
+
+(m) Considering all the IPCC assessment reports to date, there is not a shred of scientific evidence that human-related CO2 has an observable effect on the earth’s annual average surface temperature. There is ample evidence that it does _not_. For example, even though the atmospheric CO2 concentration has continued to the present, the earth stopped warming in 1998, commenced cooling soon after 2000, and is still cooling. The rate of cooling between 2006 and 2007 was the greatest rate of change for either heating or cooling since such measurements have been recorded.
+
+(n) Further, There are many other indications that the cause of the 1980-1998 temperature rise is not increasing atmospheric CO2. (1) If the IPCC hypothesis were valid, than per thermodynamics the troposphere temperature should be rising. It isn’t. (2) At least in America, and probably in other developed nations, the thermometers measuring surface temperature are in urban areas; and in these areas there is a “heat island” effect compared to surrounding areas. Urban growth itself raises the difference in temperature between urban areas and the much larger adjacent rural areas. (3) Many temperature-measuring instruments in America have been identified as being in faulty locations such as adjacent to air conditioner heat exhausts. Thus, the US NOAA-measured temperatures have been found to have been significantly increased by such faults. (4) All the computer programs used to predict future temperatures have used the assumption of a positive feedback effect from low-level clouds caused by condensation of rising moist air rising from heated earth’s surfaces. However, the predicted human CO2 effect is exaggerated. It recently has been shown that the low-cloud feedback is not positive – it’s negative.
+
+(o) Assume, for purposes of discussion, that increasing atmospheric CO2 causing a larger Greenhouse Effect is the basic cause of the 1980-1998 global temperature increase. What percentage of that increase is due to human-related CO2 emissions? First, water vapor comprises more than 50% of the Greenhouse gases and contributes 96% of the Greenhouse Effect. Atmospheric CO2 comprises _0.04%_ of the atmosphere and contributes less than _4%_ to the Greenhouse Effect. Second, over 50% of the CO2 emitted into the earth’s atmosphere is emitted by volcanoes (on land and underwater). During global warming, next is the CO2 from the ocean. Other sources in decreasing importance come animals’ emissions (excluding humans), then bacterial emissions, then humans with a very small percentage. Because the human CO2 effect on Greenhouse warming is a >4% times a very small percent, human-related CO2 emissions contribute less than 0.1% of an increase in the earth’s Greenhouse Effect.
+
+_Doubling human emissions from less than 0.1% to less than 0.2% would cause an immeasurably small change in the overall Greenhouse effect_.
+
+Conclusion.
+
+The data show that human-related CO2 has an insignificant effect on the Greenhouse Effect’s ability to raise global surface average annual temperature. Even if it did, CO2 is beneficial, not harmful, to humans, animals, and plants. The “global warming religion” is not based on “science.” It is based on other human motivations.
+
+  
+  
+
+  
+  
+
+Benjamin H. Colmery, PhD is an honor graduate of the U.S. Naval Academy. He holds two masters degrees (Ohio State, physics, and UCLA, Eng. Mgt.) and a PhD (Wharton, Management).

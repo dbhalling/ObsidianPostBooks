@@ -1,0 +1,20 @@
+
+
+A review of the book [_The Logical Leap: Induction in Physics_](http://www.amazon.com/Logical-Leap-Induction-Physics/dp/0451230051/ref=sr_1_1?ie=UTF8&qid=1437774314&sr=8-1&keywords=the+logical+leap), by David Harriman.
+
+  
+  
+
+This may seem like an odd question, however, with the rise of Global Warming and Creation Science one may be forgiven for wondering if Science provides valid knowledge. Surprisingly, many modern philosophers say the answer is no. For instance, Karl Popper, who is probably the most influential philosopher of science with scientists, states that science can never prove anything is true, only that it is more likely to be true. Popper’s reason for his position is based on the “problem of induction” in philosophy.
+
+David Harriman’s new book, [The Logical Leap: Induction in Physics](http://www.amazon.com/Logical-Leap-Induction-Physics/dp/0451230051/ref=sr_1_1?ie=UTF8&qid=1437774314&sr=8-1&keywords=the+logical+leap), wades into this quagmire and provides a resounding answer: Yes science is valid and provides positive knowledge.
+
+The book traces the history of physics and astronomy starting with Ptolemy and the ancient Greeks all the way to the beginning of modern physics (relativity and quantum mechanics). Ptolemy reversed the roles of experiment and theory. Ptolemy postulated that theory arrived at the truth and experiments showed the Platonic deviations between the ideal and that which we perceive. This caused him to create a system of astronomy where the Earth is the center of the universe and all motion is a perfect circle. It is a descriptive and predictive astronomy, however it is devoid of any physical explanations. The brilliance of the Enlightenment was to put experiment in the driver’s seat with theory conforming to experiment and to look for the underlying physical principles that caused the experimental results. _The Logical Leap_ contends that modern astronomy and physics have come full circle.
+
+The thrust of the book is to use the history of physics and astronomy to show that the proper use of inductive logic results in scientific advances. Stagnation in physics occurs when inductive logic is incorrectly applied. This flies in the face of Karl Popper and other philosophers of science who are wedded to David Hume’s “[problem of induction](http://plato.stanford.edu/entries/induction-problem/).” This problem is often explained by way of example: Every swan I have seen is white, therefore I induce that all swans are white. The next day I see a black swan. According to Hume and his followers, science is based on just such an unjustified set of conclusions. _The Logical Leap_ demonstrates that this is not what scientists do when formulating a scientific theory. It explains, “A true generalization states a causal relationship that has been induced from observational data and integrated within the whole of one’s knowledge.” It is clear that there is no causal relationship between whiteness and swans.
+
+The book shows a myriad of cases where scientists’ took an unjustified inductive leap and shows these errors were always corrected by placing experimental results and law of non-contradiction above personal biases. This is an extremely important concept; it’s a methodology that completely refutes Hume’s confusion with induction.
+
+In addition, it is a highly enjoyable read. I particularly liked the history of the atomic theory. I would recommend it to anyone interested in the history of physics and the scientific method, and especially to those feeling deadened by the weight of the pervasive irrationality of modern philosophers and their fans in popular media and the arts.
+
+[The Logical Leap: Induction in Physics](http://www.amazon.com/Logical-Leap-Induction-Physics/dp/0451230051/ref=sr_1_1?ie=UTF8&qid=1437774314&sr=8-1&keywords=the+logical+leap), by David Harriman.

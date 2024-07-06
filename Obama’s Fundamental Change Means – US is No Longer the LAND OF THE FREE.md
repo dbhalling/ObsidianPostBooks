@@ -1,0 +1,6 @@
+
+The Heritage Foundation has just released its Index of Economic Freedom [http://www.heritage.org/Index/Ranking](http://www.heritage.org/Index/Ranking). The US has fallen to 10th place in the rankings. It appears the President Obama’s idea of fundamentally remaking the US is to no longer have the US the LAND OF THE FREE.
+
+Fixing our economy and our unemployment problem is a straight forward case of increasing our ranking of economic freedom. The Heritage Foundation put out an excellent video http://www.heritage.org/Index/video explaining the results of a declining level of economic freedom.
+
+The passage of the America Invents Act is part and parcel of losing our economic freedom. It had a number of special provisions for Wall Street and big Pharmaceutical companies. It weakened the rights of start-ups and individuals in their inventions. This has made it more difficult for inventors and startups to raise capital. Technology startups are the driving force behind new jobs and high quality jobs.

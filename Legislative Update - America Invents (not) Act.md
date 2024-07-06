@@ -1,0 +1,11 @@
+
+
+I met with a couple of Congressional aides today and it looks like there will be debate on the amendments Wednesday (6/15/11) and Thursday and the vote on the America Invents Act (H.R. 1249 & S.23) by the end of the week. The only reason for the rush must be that the Bill continues to lose support and the big companies pushing this Bill want it crammed through before opposition can coalesce.
+
+According to the aides one amendment is to gut the Bill and only preserve full funding for the Patent Office (PTO). This is the only form of the America Invents Act that I could support.
+
+Other amendments include the Paul Ryan and Hal Rogers proposal to cut the provision to stop fee diversion. Some Conservative groups have supported this idea under the idea that stopping fee diversion is violation of the US Constitution. The argument is that stopping fee diversion takes the power of the purse away from the Congress. This argument is nonsense. The PTO is and always has been a totally self funded agency. When you apply for a patent you write a check to the PTO, not to the General Treasury. When the funds are deposited into the General Treasury it puts Congress in the position of a trustee. A trustee has oversight power, but does not have the power to spend that money on other programs. When it spends PTO money on other programs it is committing fraud and theft. If Congress was private entity, all Congressmen would all go to jail for converting funds. When different (less stringent) rules apply to those in government than those in the private sector, then you have tyranny.
+
+I was asked my opinion on giving the PTO fee setting authority. I am mixed. If the idiot, Jon Dudas former Director of the Patent and Trademark Office, had had fee setting authority, it would have terrified me the damage he could have done to the patent system. Of course, fee setting without the end of fee diversion is completely meaningless. So I see this issue with ambivalence at best.
+
+Now is the time to put pressure on your Congressman. Please call you them and tell them to vote NO on the America Invents (not) Act.

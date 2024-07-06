@@ -1,0 +1,22 @@
+
+Hot Property by Pat Choate [http://www.amazon.com/Hot-Property-Stealing-Ideas-Globalization/dp/0375402128/ref=sr_1_4?ie=UTF8&s=books&qid=1268261618&sr=1-4](http://www.amazon.com/Hot-Property-Stealing-Ideas-Globalization/dp/0375402128/ref=sr_1_4?ie=UTF8&s=books&qid=1268261618&sr=1-4)
+
+  
+
+This excellent book by Pat Choate will both frighten and upset you. For instance, Dr. Choate relates the shocking tale of a woman from Alabama who received a counterfeit antibiotic for a routine infected ingrown toenail and almost died. Counterfeit medicines kill and injure people every year. The U.S. is not immune to counterfeit medicines entering our market as the story of the woman from Alabama shows. Counterfeiting medicines has become a major criminal enterprise. The reason for this according to Choate is that the risks of getting caught counterfeiting legitimate medicines is significantly less than distributing and selling illegal drugs. In addition, the margin for counterfeit medicines is often higher than can obtained selling illegal drugs.
+
+  
+
+The pharmaceutical industry is not unique in dealing with counterfeits. The aviation industry also deals with counterfeits. According to a FAA report 176 aircraft accidents were the result of counterfeit parts between 1973-1996. Almost every industry in the U.S. is under attack by pirates making counterfeit products. The tales of counterfeit, music, software, and movies are well known, but they are hardly unique.
+
+  
+
+A number of these pirates operate with the tacit or even explicit support of their governments. Dr. Choate documents the long history of state supported industrial espionage. Often foreign governments target technologies that both increase their commercial and military technology. Our government has not prioritized stopping commercial pirates or industrial spies and we are all poorer for their negligence. In some cases there is a domestic industry that profits from the pirates’ activities at the expense of our long term future. These domestic industries lobby hard for inaction on the part of our government. For instance, the retail industry often turns a blind eye to trademark and copyright violations and other forms of counterfeit products.
+
+  
+
+Perhaps most maddening though is our government’s policy of giving away our technology. For instance, Dr. Choate shows that during the Clinton administration and continued in the Bush II administration we failed to protect the technologies of our domestic inventors. Our government gave away many of our most important safeguards in our patent system to the Japanese and the Europeans and received almost no concessions from them. For instance, we now publish our patent applications at 18 months for the whole world to see and steal our technology. We fought hard in the GATT trade negotiations to require other countries to strengthen their intellectual property laws and enforcement. In return, we significantly reduced our tariffs on textiles and apparel. This has decimated our textile and apparel industries, but these countries have not come into compliance with the requirements for strengthening their intellectual property systems. We could bring suit against these countries in the WTO (World Trade Organization) and force compliance, but for some reason we seem uninterested or unwilling to require these nations to uphold their part of the bargain. I am a strong believer in free trade, but stealing intellectual property is not free trade it is just theft. Like theft of real property result in underinvestment in real property, theft of intellectual property results in underinvestment of technology. This not only makes us poorer in the US but makes the whole world poorer.
+
+  
+
+An interesting point that becomes clear in Hot Property [http://www.amazon.com/Hot-Property-Stealing-Ideas-Globalization/dp/0375402128/ref=sr_1_4?ie=UTF8&s=books&qid=1268261618&sr=1-4](http://www.amazon.com/Hot-Property-Stealing-Ideas-Globalization/dp/0375402128/ref=sr_1_4?ie=UTF8&s=books&qid=1268261618&sr=1-4) is that the Reagan Administration took intellectual property rights, particularly patent rights, more seriously than any subsequent administration. Reagan understood that our technological innovation has always been the key to our wealth.

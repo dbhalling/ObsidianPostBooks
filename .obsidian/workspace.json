@@ -1,0 +1,2879 @@
+{
+  "main": {
+    "id": "feff9fe088594177",
+    "type": "split",
+    "children": [
+      {
+        "id": "78e328fe47343263",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93a4a3e8b1515e60",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "43fdf8c24d425495",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wright Brothers Didn’t Invent the Airplane and Edison Didn’t Invent the Light Bulb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6e63f11f1e3e001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worldwide Patent Backlog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db73fa73b9c97e64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Will Colorado get a Patent Satellite Office?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f277666383d4d978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WHY THERE IS NO GLOBAL WARMING CONSENSUS (Guest Post).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b8cff2aca517ed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why the Publication Requirement for Patents Hurts Startups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58db2a86d15dd63d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why Judges on the CAFC Should be Required to be Patent Attorneys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2352e5df99187cc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why I Quit the AIPLA (American Intellectual Property Law Association).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18ed658fabea16ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why Government Funded R&D Cannot Replace the Patent System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "319bcb8684d6dd0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "White House Proposes Innovation Prizes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7967ebd2f8001ce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What's Wrong with Patents Today?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "781c8c758877a59d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is the Economic Impact of Start-ups?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8d4affd97cb9770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is not Economic Growth? Consumption.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e148b030204f75e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What do Keynesians and the Flat Earth Society Have in Common?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f72355daa427163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Were Number 1, Were Number 1 in Taxes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55bb29dc087b6ad0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome to the Global Financial Meltdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c623209afcb5e36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome to How to Make Your Patents a WMD, Weapon of Market Domination Introductory strategies with Dale Halling..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73e16372020da3fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Walter Williams and Overpopulation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d81a0e0c07f3a7b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wall Street Journal Proves its Patent Ignorance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f32c9108a347e133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Virtual Patent Marking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fbddf59b519a60e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "US Health Care How Does it Stack Up?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b711e97138236549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Use Your Unique Selling Points to Improve Your Patent Portfolio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dde3211bb855338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "US Competitiveness Ranking Falls to Seventh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d166cd0f905c605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How Should the US Respond if China Creates a Successful Patent System?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c85e275d37323543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "US Brain Drain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f5a8515551aac87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UN to Spend Trillions Trying to Create a Perpetual Motion Machine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0fe7951aed59efc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98f4a61521297722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unemployment The Big Lie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33feea19d18c6b9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Understanding the Non-Obviousness (35 USC 103) Patent Requirement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e51b6e67b47cdbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Understanding Patent Novelty (35 USC 102) for Inventors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72f628b505ca7c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UK Innovators on US Patent Reform – DON’T DO IT!!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8accc4f7ffda209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Twitter’s IPA” The Rise of Trade Secrets and the End of Innovation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3b5546ca4c2f252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trade Deficits, The Economy, and Intellectual Property.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40db4fab417a56d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "When This American Life Attacks Patents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9866164ba3b07665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Taxonomy of Philosophy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "171994ab5b12839c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The situation in Oregon - Hammonds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7ee736a2a6efb8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Science of Economic Growth Part 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aee5593d0377ef54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Science of Economic Growth Part 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8449ed68439ca18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Science of Economic Growth Part 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c41fdb62f39c903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Science of Economic Growth Part 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b653c1a0b39f5c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Science of Economic Growth Part 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8efc0529860596ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8173ed1e4244ba45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Rise of the Expat Exodus from the United States.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fe8e63c95a833a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "There appears to be considerable confusion differentiating property rights.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7882fd3251d6f14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Pseudo Scientific Basis of Environmentalism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8af2fc9a6eb4b3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Prometheus Connection A Book Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "533a4fba8e703ef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Perfect Knowledge Fallacy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f398fb2ac7c61252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Next Big Thing!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43a6fbc27e80bf10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Myth of the Sole Inventor - A Socialist Diatribe by Professor Mark A Lemley.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "345cd906432accbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The History of Patent Damages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9bb54ace44c5131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The High Cost of Invention Theft - Why Channel 1 on TV Does Not Exist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cce75eed720647d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Greenhouse Effect does Not Exist - The Scientific Fallacy Underlying the Whole Anthropogenic  Global Warming Story.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca30d09cc5dc3596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Great Patent Debate - The Untold Story.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30cdc82194f6bbe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theft of the Declaration of Independence - How it Affects Our Patent System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd7702e056d798f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Federal Government’s Contempt for Patent System and Constitution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "747a1202ba2b87b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Bright Side of Patents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64edf4e58850b72f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terratec’s was named one the top innovations by the magazine Equipment World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dde1b476ae0c546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECHCRUNCH’s Attack on Ron Paul Reveals it’s Collectivist Ideology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "352dc261f1dc32e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TARP bailout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dfb8d68d1b046ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supreme Court ‘Only Black Magic Patent Eligible’.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1ecc32a09ada844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supreme Court’s Myriad Decision a Mixed Bag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dde54e97cf44a5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supreme Court Hears Myriad Case The Myth You Can Patent Human Genes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c53bc4331c0cbfdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supreme Court Agrees to Hear so Called “Gene Patenting Case” - Myriad’s Stock Falls 9%.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fd75813de507c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study Shows Strong IP Key to VC Back Company Success.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12526d85cccefe51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Steve Forbes is Wrong on Patent Pools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "586e7da11c701857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOPA, PIPA and Kim Dotcom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf6b9d9bc324b4d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Rights and Defense Contracts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef7f682cab644ae3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Patents and Music and the Myth of Simultaneous Invention.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b704d8bb28d659f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Darwinism is bad biology and bad economics-sociology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57305fd1c8998380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Smart Phone Patent Wars and Software Patents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89e42c0a5dffa0ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Singapore and the US Divergent Patent Policies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5996981c809106dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What do the “Self-Made Man” and Patent Law Have in Common?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13685a08becc3558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scarcity – Does it Prove Intellectual Property is Unjustified?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b15e902476e02c52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sarbanes Oxley - Relief May Be on the Way.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dac1cce91c9cad73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patent Office Fees an Unconstitutional Tax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2645911791e44e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roberts Rules of Innovation - Book Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df95c3e332b4b527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rights Obtained With a Patent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d31868a49f361a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Response to The Economist on Patents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2030e5b1b64074c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regulatory Reform - REINS Legislation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0286bfd661a71ffa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reasons for Obtaining a Patent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e502818b061a617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reason Magazine - Using Emotion and Faith to Advance their Anti-Patent Agenda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "676d4c17b78a04ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What Would Real Patent Reform Look Like?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f56a8a526e945ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Did Rand read Sir William Blackstone Commentaries?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e77d3471751d8bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Three Steps to Reduce Patent Pendency Times.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cd4384a7e6e5357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patents - Property Rights or Regulation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b0c783e88a60fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sox Grant Thorton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5c39fe5d1ba0415",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophical Foundations of Property Rights.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe0d4d9d912d5028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mayo v. Prometheus – Supreme Court Grants Cert (Again).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dcc1e9baa05700e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prometheus Fall Out - The SmartGene Case.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1701069a8240bda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Praxeology - An Intellectual Train Wreck.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6f683e63aed09ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Posts Related to Austrian Economics and Objectivism Panel Session.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0337bb8edad268e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Post on Solutions at State and Local Level.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0aacc2404e1ddcad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phil the Expatriate - How the U.S. is Driving Technical Talent Away.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a95cf1595334a1a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PhilosophyOutline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2819fc8db243c836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy of Science.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5066081e93082fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Perfect Competition is Economic Equivalent of Altruism Morally & Why it Matters to Patents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67ad06d66f7b293c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paul Ryan - Good or Bad for Patents, Tech Startups and the Economy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73b16dc4885599b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patent Wars - A Market Solution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efe8b6046dfab8c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patent Trolls vs. Legal Trolls.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "051801f741cd8b30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patent Troll Legislation - Grand Standing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd349f70947b6ee9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pat Choate - Technology Theft as a Business Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46ae73cc30227671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patents – Some Stories Make You Want to Puke.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "691e92d2adc862cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "patents&RealProperty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20502a1731476480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patents & Laws of Nature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8ca65c8f154f399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patents Important to Economic Growth of Emerging Countries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6715b3aa9a13cb9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patents Are Property Rights – Period.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69993d4eeecda0b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patents are Natural Rights.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33bced24f8609cc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What Your Position on Patents Reveals About You.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e574fc57241e2c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patents and Politics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae0f5295691ff203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patents - Monopoly or Property Right a Testable Hypothesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa5d11bcbdf69834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patents = Wealth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6bc9bba39dc9e5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patent Review Committees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c326c89e89e6d558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patent Reform Debate - Article Proves It’s Built on a Foundation of Sand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "469e42951d8c00e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patent Quality Nonsense.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "581425a8c40e3e2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patent Quality Myth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07d6258ff0e835e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patent Ombudsman Program - A First Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9ce0e737fdde3cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patent Office Uses Restriction Requirement to Limit Scope of Claims.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "163b76cc1e8222fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PATENT=MONOPOLY – A LEGAL FICTION.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e726654db66ff941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patently Ignorant - Business Insider Article on Google Doodle Patent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a6fe23c821bd391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patent Litigation Explosion by PAE - Obama Misleading the Public Again.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b29de5526b3efc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patenting Life.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22fe01fa754b2203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patent Delay Strategies, Inventor’s Notebook and Provisional Patent Applications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c976ce147dcd9d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patent Deform Act of 2011 - Approved by Senate Committee.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a70ce450d472e8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patents Cause Economic Growth - Another Academic Study.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50eca50f191c3dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patent Allowance Rate up to 46% (4-29-11).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cebe97dc08b366cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "America Invents Act (H.R. 1249 & S. 23).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3049d9d2f5e016ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Only 2% of Patents Ever Pay Off.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3f89f5e980ce267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "One Year Anniversary of Patent Reform -  Two Reasons Why it is UnConstitutional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a2c6f603212711d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Once Again Tech Dirt proves its ignorance of patents and property rights.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c8e7b3602227462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OECD Patent Quality Measurement – Confusing Patent Quality with Innovation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c4443c731c55592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obviousness is Un-Constitutional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "061167fff729d1d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obama to Little Red Hen – ‘You Didn’t Make that Loaf of Bread’.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f2fd3b80945ed10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obama’s Fundamental Change Means – US is No Longer the LAND OF THE FREE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "694a64e04588c0b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obama - Make Regulation Efficient.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac19c39fad80faa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Novelty (35 USC § 102) and Nonobviousness (35 USC § 103).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae1ab420dbfb2f1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Zealand to Outlaw Patent on Software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c07fdd88a3e9dfc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Natural Rights - Objective, Subjective and Volition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "903bc66e6528d10d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "natural rights 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fef1e567f238450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nation of Laws?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63561321bfcda12d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "National Inventors Day.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2dc4980696b6924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "National Innovation - Invention Tax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07aa877274a195f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myriad Oral Argument - Supreme Court Analogies show Supreme Ignorance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb6847c27dd3df5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mossoff and Rand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "759386e54553f3a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "More Evidence that Stealing Inventions is a Business Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ec21b8d985a0e2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monopoly patent posts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3becbb9762081170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Money and Banking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1ebfcaef40663e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medical Innovation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5f8edc1b1ea849e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mayo v. Prometheus - An Update.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93e1f704c90d919a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mayo Clinic’s Invention Theft Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f183fdfa20c5e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mark Twain on the America Invents Act.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a34b22dff38dbe35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mark Twain’s Birthday - What He Thought About Patents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efcf3c0e290bfa51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mark Lemley’s Socialist Theory of Invention.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "929e998b376f0d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mark Cuban’s a Mythical Patent Creature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea506a0b1b738d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Margaret Thatcher Patent Attorney - You Did Build That.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4e8d41e23694d4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libertarians vs Classical Liberals on Patents and Inventors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdabe73558bf8f37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legislative Update - America Invents (not) Act.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f84ceaaba7b8a37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lawsuit Challenges AIA’s Constitutionality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e21db6d238439d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lack of Demand – More Economic Stupidity from the Financial Press.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bf819b62c5f522b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5th Anniversary KSR - Is Section 103 is Unconstitutional?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55a7b127c02a5d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Justice Breyer - Patent Ignorance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88bfc86ef942063a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Judge Pauline Newman Patent Reform Circa 1980.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "707d5d9a10fd1c7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Judge Michel – Economy Recovery Requires Strong Patent System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "366acbb0ee99c37d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "John Locke vs. Ayn Rand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "102a7673c84a6030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JOBS Act - Why Regulatory Agencies Are Un-Constitutional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17a3cf834378565f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JOBS Act a Small Step in Right Direction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32baf75b3b49a211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jefferson's Moose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3f1f9eddeca3f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jack Kemp - Anticipates My Book on SOXUntitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f32dd8768015eebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Is this Professor an Objectivist?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a24cabb1f6f07f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Is the Supreme Court Competent to Rule on Patent Cases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0666645edab0ccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Is Star Trek Anti-American?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23233e38829236e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Is Science Valid or Just as Arbitrary as any Religion?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ba0b6126dc794cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Is Carl Menger a Socialist?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6ec60225b000c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Is 35 USC 101 Judged by the Claims?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24c095beeebf8c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPXI Exchange Model Issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c792344050a486d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPBiz on Mark Cuban’s Comments on Patents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a98c6b841f1db671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invention – A Financial Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0299ac2f3ca08a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "126fd806ec1f2cb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interesting Academic Study on Value of Patents to Startups..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "469e1640eb38b71a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intellectual Capitalism - Fundamentals Part 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85d48562fc52b5a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Innovation Act of 2013.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "202189114ae58d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intellectual Capitalism - Philosophy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7a20e75f4cab6ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hyperloop – Mr. Musk Represents Everything that is Wrong with the US Economy..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f63d45b4e294c847",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "H.R.2930 Crowdfunding Passes House.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d78369b0323be6fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Fix the Economy - USA falls to 17th on Index of Economic Freedom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17dccc1073f90feb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How the Environmental Movement is Killing Innovation and Destroying Our Environment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a292081867302ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How Do You Determine if it Makes Economic Sense to File a Patent?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fadabf55519e2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How computers and software work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "932977dd8c107173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How Competition Between Countries for Investment is Affected by Patents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b590f88de3a0f0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hot Property.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2482a17221fe759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hayek vs. Rand - Patents and Capitalism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bc96f2ac51aaa0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hayek - Friend or Foe of Reason, Liberty and Capitalism?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd97b105f4152b2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guttag-Socialism and Invention.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "443d70e1c569dd7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gunn v. Minton- Bad for Patent Attorneys and Patent Law.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3aacc4f609dd9f41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Great American Inventor Steve Jobs Dies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "376695dd7ce5ee07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Washington Post Suggest Producers and Parasites are Interchangeable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8eb89ffa2adfb20f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google, Motorola Mobility and the Patent Wars.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73f10a49264c97f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Good News on Patents From the Supreme Court.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "649daa11b923dd2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "George Will - US Suffering From Innovation Dearth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3873a256820fac9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "George Reisman - Are Objectivist Economists Consistent with Rand?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddecb14dcaaa3303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gene Quinn Destroys ‘The Economist’ on Patents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91d1bf5245c8ce05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gun Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "deefad717529d7ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gary Boone Inventor of the Microcontroller Dies at 68.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7523fe218f8f0db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foundations of Patent Law.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5b8311d800f2905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forced Smoking and Obama Care – Same Results.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e83dfb6816b5f76c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forbes Explains How America Invents Act will Hurt Tech Entrepreneurs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19b1e91560c7b810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flawed Study by Boston University Used to Justify Infringement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b929d0794458d399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First-to-File vs. First-to-Invent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fe21da13097887e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Regulation Does Not Work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "528c082c4e57ce5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feed the Pig - Accountant Double Speak.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13fef06631ed4922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FEE - Ayn Rand Predicts its Intellectual Bankruptcy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9647df4b30bdcdd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "F. A. Hayek - Austrian Economics vs. Objectivism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4307a476afda7179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extraordinary claims require extraordinary proof.  Thomas Paine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8001288269e8c4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exodus - How the US is Losing Its Most Talent People.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e470924cd3f3879a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evolution, Economics, and Patent Law.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75106dbf22874e29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Everything Wrong With Patent Law Can Be Found in the Koontz Case..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6376eaabb7d02f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engines that drive The US Economy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c30e16472d91a8ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elizabeth Warren’s Hate Speech.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33329c1fdf869745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eliminate the EPA - Stop Environment Thugs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "858a5543fa88a961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PATENT THICKET.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97d6c84b6e0c1985",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics as it Should Be.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cab622ee37bb5aae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Environmentalists are Evil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb6be76172edef45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why I Quit the AIPLA (American Intellectual Property Law Association).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e675759ae8f82303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Decline and Fall of the American Entrepreneur How Little Known Laws and Regulations are Killing Innovation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c101b79adc71b80b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Source of Economic Growth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2aaa3d0daf6f463d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intellectual CapitalismAn Objective Scientific Approach to Economics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "271bd49261bbb2ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Natural Rights - Objective, Subjective and Volition.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 225
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edcfe7c3ebf84be9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ce2309ed4a5e19d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a26f45a3adf56ef7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "316167a73b9ac68c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "locke ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9008c239d66eb96b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da40e58f735ffd6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea143f181b841d8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9d40f60a285c847",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Natural Rights - Objective, Subjective and Volition.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "538545a456ff22c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Natural Rights - Objective, Subjective and Volition.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dff0e7c172aa492c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c1380fb2e4daeaf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Natural Rights - Objective, Subjective and Volition.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "316167a73b9ac68c",
+  "lastOpenFiles": [
+    "Intellectual CapitalismAn Objective Scientific Approach to Economics.md",
+    "Gun Control.md",
+    "The Decline and Fall of the American Entrepreneur How Little Known Laws and Regulations are Killing Innovation.md",
+    "Money and Banking.md",
+    "Intellectual Capitalism - Philosophy.md",
+    "Untitled 2.md",
+    "The Source of Economic Growth.md",
+    "Why I Quit the AIPLA (American Intellectual Property Law Association).md",
+    "When This American Life Attacks Patents.md",
+    "Hyperloop – Mr. Musk Represents Everything that is Wrong with the US Economy..md",
+    "America Invents Act (H.R. 1249 & S. 23).md",
+    "Untitled 1.md",
+    "Environmentalists are Evil.md",
+    "Economics as it Should Be.md",
+    "PATENT THICKET.md",
+    "Eliminate the EPA - Stop Environment Thugs.md",
+    "Elizabeth Warren’s Hate Speech.md",
+    "Engines that drive The US Economy.md",
+    "Everything Wrong With Patent Law Can Be Found in the Koontz Case..md",
+    "Evolution, Economics, and Patent Law.md",
+    "Exodus - How the US is Losing Its Most Talent People.md",
+    "Extraordinary claims require extraordinary proof.  Thomas Paine.md",
+    "F. A. Hayek - Austrian Economics vs. Objectivism.md",
+    "FEE - Ayn Rand Predicts its Intellectual Bankruptcy.md",
+    "Feed the Pig - Accountant Double Speak.md",
+    "Financial Regulation Does Not Work.md",
+    "Untitled 2",
+    "Untitled 1",
+    "Untitled"
+  ]
+}

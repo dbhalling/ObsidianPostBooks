@@ -1,0 +1,10 @@
+
+his is an excellent book - up there with Niall Ferguson’s, Ascent of Money.  David G. Post, the author, ties the ideas of Thomas Jefferson to the ideas that made the Internet so successful.  Post also demonstrates an extensive knowledge of Jefferson, but not to the determent of story.
+
+Post shows how Jefferson’s mapping of the navigable rivers in Virginia helped him to understand the critical importance of New Orleans and the Mississippi river. The map of the navigable rivers is compared to the connections of the internet.  The non-hierarchical nature of the internet avoids a New Orleans type bottleneck.
+
+Later Post divides the world into two types of people, “Jeffersonsians” and “Madisonians” with Post being a Jeffersonian.  The key difference between these types of people is the need for control – particularly over other people.  Jefferson’s policy on expansion of the west demonstrates how his ideas that central control is not necessary works in action. His policies were based on self organization by the settlers of the west.  The standards of the internet are based on this same self organizing principle.  This principle allowed for both systems to scale rapidly. Interestingly, Elinor Ostrom won the Nobel Prize in Economics recently for her work on similar ideas.
+
+The book traces the development of the internet by describing the potential roadblocks to its ultimate success.  This provides the reader with a deeper understanding of both the internet’s development and the value of its bottom up approach to solving potential bottlenecks. 
+
+This is an excellent book ([http://www.amazon.com/Search-Jeffersons-Moose-Cyberspace-Current/dp/0195342895](http://www.amazon.com/Search-Jeffersons-Moose-Cyberspace-Current/dp/0195342895)) on the development of the internet, on Jefferson’s ideas, and on the “law” of cyberspace.
